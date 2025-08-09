@@ -1,0 +1,22 @@
+{
+  "name": "playwright-poc",
+  "version": "1.0.0",
+  "description": "playwright-poc",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcgongora/playwright-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcgongora/playwright-poc/issues"
+  },
+  "homepage": "https://github.com/rcgongora/playwright-poc#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
